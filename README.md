@@ -8,7 +8,7 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.robotgabriel.com)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.com)
+![Website](https://img.shields.io/website?url=https://google.com)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.com&up_message=www.robotgabriel.com)
 
